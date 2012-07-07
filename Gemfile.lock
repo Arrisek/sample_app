@@ -161,7 +161,7 @@ PLATFORMS
 DEPENDENCIES
   capybara (= 1.1.2)
   coffee-rails (= 3.2.2)
-  guard-rspec (= 0.5.5)
+  guard-rspec
   guard-spork (= 0.3.2)
   jquery-rails (= 2.0.0)
   libnotify (= 0.5.9)
